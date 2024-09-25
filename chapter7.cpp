@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int x=10;//globacl scope variable
+int x=10;//global scope variable
 int reverseNumber(int n){
     int r_number=0,digit;
     while(n>0){
